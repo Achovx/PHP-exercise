@@ -1,2 +1,2 @@
-# PHP-exercise
-Some exercise in PHP - Ecole IRIS
+# PHP
+Exercices en PHP - Ecole IRIS
